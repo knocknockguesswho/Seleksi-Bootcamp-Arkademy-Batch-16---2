@@ -1,0 +1,13 @@
+{
+    - biodata: {
+        name: "Faris Ramadhan",
+        age: 25,
+        address: "Jl. Matraman Raya 132 RT.006/RW.004 No.B11, Kel. Kebon Manggis, Kec. Matraman. Jakarta Timur",
+        hobbies: [
+            "Gaming",
+            "Singing",
+            "Music Composing"
+        ],
+        is_married: false
+    }
+}
